@@ -42,6 +42,10 @@
   <a href="">
     <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
   </a>	
+				&emsp;
+  <a href="">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>	
 </p>
 
 ### 👉 Frontend Development
