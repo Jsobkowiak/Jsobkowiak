@@ -46,7 +46,6 @@
   <a href="">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>	
-	<br><br>
 					&emsp;
   <a href="">
     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
