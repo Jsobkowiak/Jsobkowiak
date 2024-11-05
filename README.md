@@ -51,6 +51,14 @@
   <a href="">
     <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   </a>	
+						&emsp;
+  <a href="">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>	
+							&emsp;
+  <a href="">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>	
 </p>
 
 ### 👉 Frontend Development
