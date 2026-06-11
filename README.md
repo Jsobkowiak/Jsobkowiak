@@ -14,7 +14,7 @@
 
 - 🌱 J'approfondis Spring Boot & les architectures microservices
 - 💼 Ouvert aux opportunités Java / Java EE
-- 🛠️ Je construis des applications web robustes du back-end jusqu'à l'interface
+- 🛠️ Je construis des applications robustes du back-end jusqu'à l'interface
 
 ---
 
