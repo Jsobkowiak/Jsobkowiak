@@ -1,6 +1,6 @@
 # Salut, moi c'est Jonathan Sobkowiak 👋
 
-Développeur web passionné, j'aime construire des applications robustes du back-end jusqu'à l'interface utilisateur.
+Développeur passionné, j'aime construire des applications robustes du back-end jusqu'à l'interface utilisateur.
 
 🔍 **Actuellement à la recherche d'un poste en développement Java.**
 
