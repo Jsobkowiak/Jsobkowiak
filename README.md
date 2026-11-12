@@ -4,19 +4,10 @@
 
 <div align="center">
 
-🔍 **Actuellement à la recherche d'un poste en développement Java.**
+🔍 **Actuellement à la recherche d'un poste en développement.**
 
 </div>
 
----
-
-## 🙋 En ce moment
-
-- 🌱 J'approfondis Spring Boot & les architectures microservices
-- 💼 Ouvert aux opportunités Java / Java EE
-- 🛠️ Je construis des applications robustes du back-end jusqu'à l'interface
-
----
 
 ## 🛠️ Stack technique
 
